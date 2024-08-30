@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EngineeredForHU
-- 👀 I’m interested in Software development, mountain biking, and more
+- 👋 Hi, I’m @EngineeredForHU, a student in CS.
+- 👀 I’m interested in Software development, mountain biking, Books, cinema, and more
 - 🌱 I’m currently learning Java and Rust on the side.
-- 💞️ I’m looking to collaborate on any project I really can, still learning.
+- 💞️ Learning as much as I can. Open to collaborating.
 - 📫 can reach me @24.apbusiness@gmail.com
 
 <!---
