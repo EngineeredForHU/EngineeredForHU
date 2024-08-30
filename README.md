@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EngineeredForHU
-- 👀 I’m interested in Software development, mountain biking
+- 👀 I’m interested in Software development, mountain biking, and more
 - 🌱 I’m currently learning Java and Rust on the side.
 - 💞️ I’m looking to collaborate on any project I really can, still learning.
 - 📫 can reach me @24.apbusiness@gmail.com
