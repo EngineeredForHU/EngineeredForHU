@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1537432376769-00a5f6e01f17?auto=format&fit=crop&w=1350&q=80" width="100%" alt="Code and Learning Banner">
+  <img src="frustrated programming GIF.gif" width="300" height="200" alt="Code and Learning Banner">
 </p>
 
 ---
