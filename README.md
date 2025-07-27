@@ -10,7 +10,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 Hey there! I’m Engineered For HU — a passionate, curious developer currently building my foundation in Python, Flask, and RESTful APIs. I love learning new technologies and applying them in meaningful ways. I'm especially interested in how machine learning can solve real-world problems, and I'm working toward becoming a full-time ML engineer.
 
