@@ -20,10 +20,10 @@ I'm also big on personal growth — whether it's in the gym, in a textbook, or i
 
 ## 🧠 What I'm Working On
 
-- Learning Flask and building RESTful API projects
-- Exploring machine learning fundamentals (NumPy, scikit-learn)
-- Practicing SQL and data querying
-- Collaborating on beginner- to intermediate-level projects
+- Learning Flask and building RESTful API projects  
+- Exploring machine learning fundamentals (NumPy, scikit-learn)  
+- Practicing SQL and data querying  
+- Collaborating on beginner- to intermediate-level projects  
 
 ---
 
@@ -41,10 +41,10 @@ I'm also big on personal growth — whether it's in the gym, in a textbook, or i
 
 ## 🌱 Goals
 
-- ✅ Build and deploy a REST API using Flask
-- ✅ Apply machine learning models on real data
-- ✅ Collaborate with developers on GitHub
-- ✅ Stay consistent with learning and growing — one step at a time!
+- ✅ Build and deploy a REST API using Flask  
+- ✅ Apply machine learning models on real data  
+- ✅ Collaborate with developers on GitHub  
+- ✅ Stay consistent with learning and growing — one step at a time!  
 
 ---
 
@@ -52,10 +52,10 @@ I'm also big on personal growth — whether it's in the gym, in a textbook, or i
 
 I’m open to collaborating on:
 
-- Python practice projects
-- Flask/REST API builds
-- Beginner-friendly machine learning ideas
-- Group learning and code reviews
+- Python practice projects  
+- Flask/REST API builds  
+- Beginner-friendly machine learning ideas  
+- Group learning and code reviews  
 
 Whether you’re just starting out or more experienced, I’d love to connect and grow together!
 
@@ -64,15 +64,14 @@ Whether you’re just starting out or more experienced, I’d love to connect an
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://reddit.com/u/yourusername"><img src="https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+  <a href="mailto:24.apbusiness@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/engineeredforhu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/EngineeredForHU"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://reddit.com/u/Engineered-For-HU"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
-
 
 ---
 
-> *"The most important thing is this: to be able at any moment, to sacrifice what you are for what you will become"* - Eric Thomas
+> *"The most important thing is this: to be able at any moment, to sacrifice what you are for what you will become"* – Eric Thomas
 
 ⭐ Thanks for visiting my profile!
