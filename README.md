@@ -30,11 +30,11 @@ I'm also big on personal growth — whether it's in the gym, in a textbook, or i
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="Code Coding Sticker by codearock.gif"width="45" height="45" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="Code Coding Sticker by EscuelaDevRock.gif" width="85" height="85" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="linux-computer.gif"width="45" height="45" />
 </p>
 
 ---
