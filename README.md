@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Engineered For HU 👋</h1>
 
 <p align="center">
-  💻 Aspiring Machine Learning Engineer | 🐍 Python Learner | 🌐 REST API Explorer | 🏋️ Fitness Enthusiast  
+  💻 Aspiring Machine Learning Engineer | 🐍 Python Learner | 🌐 REST API Explorer | 🏋️ Fitness Enthusiast  | 🌱 Life Long Learner
 </p>
 
 <p align="center">
