@@ -4,10 +4,6 @@
   💻 Aspiring Machine Learning Engineer | 🐍 Python Learner | 🌐 REST API Explorer | 🏋️ Fitness Enthusiast  | 🌱 Life Long Learner
 </p>
 
-<p align="center">
-  <img src="frustrated programming GIF.gif" width="300" height="200" alt="Code and Learning Banner">
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -58,6 +54,10 @@ I’m open to collaborating on:
 - Group learning and code reviews  
 
 Whether you’re just starting out or more experienced, I’d love to connect and grow together!
+
+<p align="center">
+  <img src="frustrated programming GIF.gif" width="200" height="200" alt="Code and Learning Banner">
+</p>
 
 ---
 
