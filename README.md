@@ -1,76 +1,63 @@
-<h1 align="center">Hi, I'm Engineered For HU 👋</h1>
+<h1>⚡ Electrical Engineering Projects & Learning Journey</h1>
 
-<p align="center">
-  💻 Aspiring Machine Learning Engineer | 🐍 Python Learner | 🌐 REST API Explorer | 🏋️ Fitness Enthusiast  | 🌱 Life Long Learner
+<p>
+Welcome to my Electrical Engineering project hub!  
+This repository tracks my hands-on learning, small builds, experiments, and notes as I grow my skills in electronics and circuit design. My goal is to build a strong foundation in <strong>DC circuits</strong>, <strong>microcontrollers</strong>, <strong>sensors</strong>, and eventually move into <strong>AC systems, PCB design, and embedded programming</strong>.
 </p>
 
----
+<hr>
 
-## 👨‍💻 About Me
+<h2>🔌 What I’m Learning Right Now</h2>
+<ul>
+  <li>Basics of electricity (voltage, current, resistance, power)</li>
+  <li>LED circuits with resistors</li>
+  <li>Breadboard fundamentals</li>
+  <li>DC motors and motor control</li>
+  <li>Arduino basics (digital I/O, buttons, sensors, PWM)</li>
+  <li>Using multimeters and understanding measurements</li>
+  <li>Reading schematics and interpreting component symbols</li>
+</ul>
 
-Hey there! I’m Engineered For HU — a passionate, curious developer currently building my foundation in Python, Flask, and RESTful APIs. I love learning new technologies and applying them in meaningful ways. I'm especially interested in how machine learning can solve real-world problems, and I'm working toward becoming a full-time ML engineer.
+<h2>🛠️ Current Projects</h2>
 
-I'm also big on personal growth — whether it's in the gym, in a textbook, or in a code editor.
+<h3>1. LED + Resistor Basics</h3>
+<ul>
+  <li>Calculating proper resistor values</li>
+  <li>Understanding polarity</li>
+  <li>Testing brightness, current limits, and safety</li>
+</ul>
 
----
+<h3>2. DC Motor Control</h3>
+<ul>
+  <li>Working with 3–6V motors</li>
+  <li>Using transistors or motor driver chips</li>
+  <li>Protecting components with diodes</li>
+</ul>
 
-## 🧠 What I'm Working On
+<h3>3. Arduino Experiments</h3>
+<ul>
+  <li>Button input</li>
+  <li>LED blinking and fading</li>
+  <li>RGB LED mixing</li>
+  <li>Basic sensor readings</li>
+</ul>
 
-- Learning Flask and building RESTful API projects  
-- Exploring machine learning fundamentals (NumPy, scikit-learn)  
-- Practicing SQL and data querying  
-- Collaborating on beginner- to intermediate-level projects  
+<h2>⚙️ Upcoming Projects</h2>
+<ul>
+  <li>555 timer circuits</li>
+  <li>Soldering practice</li>
+  <li>Power regulation (9V → 5V using regulators)</li>
+  <li>First simple PCB using KiCad</li>
+  <li>Mini robot that avoids obstacles</li>
+</ul>
 
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="Code Coding Sticker by codearock.gif"width="45" height="45" />
-  <img src="Code Coding Sticker by EscuelaDevRock.gif" width="85" height="85" />
-  <img src="linux-computer.gif"width="45" height="45" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-
----
-
-## 🌱 Goals
-
-- ✅ Build and deploy a REST API using Flask  
-- ✅ Apply machine learning models on real data  
-- ✅ Collaborate with developers on GitHub  
-- ✅ Stay consistent with learning and growing — one step at a time!  
-
----
-
-## 🤝 Open to Collaborate
-
-I’m open to collaborating on:
-
-- Python practice projects  
-- Flask/REST API builds  
-- Beginner-friendly machine learning ideas  
-- Group learning and code reviews  
-
-Whether you’re just starting out or more experienced, I’d love to connect and grow together!
-
-<p align="center">
-  <img src="frustrated programming GIF.gif" width="200" height="200" alt="Code and Learning Banner">
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:24.apbusiness@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/engineeredforhu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/EngineeredForHU"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
-
----
-
-> *"The most important thing is this: to be able at any moment, to sacrifice what you are for what you will become"* – Eric Thomas
-
-⭐ Thanks for visiting my profile!
+<h2>📐 Skills I’m Building</h2>
+<ul>
+  <li>Circuit analysis</li>
+  <li>Ohm’s Law and power calculations</li>
+  <li>Interpreting datasheets</li>
+  <li>Wiring breadboards cleanly</li>
+  <li>Using Arduino IDE</li>
+  <li>Debugging circuits</li>
+  <li>Safe power management</li>
+</ul>
